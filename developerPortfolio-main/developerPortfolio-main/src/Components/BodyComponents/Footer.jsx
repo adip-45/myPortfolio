@@ -33,14 +33,12 @@ export default function Footer() {
         <LinkedIn
           className={classes.icons}
           onClick={() =>
-            window.open("https://leetcode.com/adityaprakashs/", "_blank")
+            window.open("https://linkedin.com/in/adityasrprakash", "_blank")
           }
         />
         <GitHub
           className={classes.icons}
-          onClick={() =>
-            window.open("https://leetcode.com/adityaprakashs/", "_blank")
-          }
+          onClick={() => window.open("https://github.com/adip-45", "_blank")}
         />
         <Code
           className={classes.icons}
