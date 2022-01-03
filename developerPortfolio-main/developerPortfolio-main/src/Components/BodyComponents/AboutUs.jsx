@@ -70,7 +70,7 @@ export default function AboutUs() {
                 heading:
                   "Bonjour! I’m Aditya Prakash, EAI Developer at Capgemini.",
                 description:
-                  "Self-motivated and innovative tech-enthusiast with 3+ years of experience in developing and maintaining sophisticated middleware applications",
+                  "Self-motivated and innovative tech-enthusiast with 3+ years of experience in developing and maintaining sophisticated middleware applications with proven leadership qualities.",
               })}
               <br />
               {/* {CardMedia({
